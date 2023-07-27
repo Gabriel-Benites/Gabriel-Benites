@@ -11,5 +11,6 @@
 
 LinkedIn: Gabriel Benites
 Email: gabrielbenitespeixe@gmail.com
+
 ⚡ Um pouco sobre mim:
 Sou um jovem de 15 anos e atualmente estou trabalhando na Esquadros desde 06/03/23. Gosto bastante de aprender coisas novas e solucionar problemas com o uso da tecnologia.
