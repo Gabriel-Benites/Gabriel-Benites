@@ -10,6 +10,7 @@
 📫 Como me encontrar:
 
 LinkedIn: Gabriel Benites
+
 Email: gabrielbenitespeixe@gmail.com
 
 ⚡ Um pouco sobre mim:
