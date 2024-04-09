@@ -1,4 +1,3 @@
-
 👋 Olá, eu sou Gabriel Benites!
 
 🌱 Atualmente, estou aprendendo e me aprimorando nas áreas de prototipagem e análise de dados.
@@ -15,8 +14,3 @@ Email: gabrielbenitespeixe@gmail.com
 
 ⚡ Um pouco sobre mim:
 Sou um jovem de 16 anos e atualmente estou trabalhando na Esquadros desde 06/03/23. Gosto bastante de aprender coisas novas e solucionar problemas com o uso da tecnologia.
-def welcome():
-    print("Bem-vindo ao meu repositório no GitHub!")
-
-if __name__ == "__main__":
-    welcome()
