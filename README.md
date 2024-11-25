@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Gabriel-Benites
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Olá, eu sou Gabriel Benites!
 
-<!---
-Gabriel-Benites/Gabriel-Benites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Atualmente, estou aprendendo e me aprimorando nas áreas de prototipagem e análise de dados.
+
+💼 Trabalho como Jovem Aprendiz na Esquadros LTDA.
+
+🚀 Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades.
+
+📫 Como me encontrar:LinkedIn: Gabriel Benites
+
+  Email: gabrielbenitespeixe@gmail.com
+
+⚡ Um pouco sobre mim:
+Sou um jovem de 16 anos e atualmente estou trabalhando na Esquadros desde 06/03/23. Gosto bastante de aprender coisas novas e solucionar problemas com o uso da tecnologia.
